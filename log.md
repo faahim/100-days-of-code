@@ -1,30 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 1st, Monday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Struggeled with fetching url metadata on client side in geckos-28 react app. Written a method to remove item from shelf.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts:** I'm having a hard time understanding the CORS policy. I'm reading some articles to deepen my understannding on it. I'm also afraid that maybe I simply can't fetch cross origin data from the client side!
 
 
-### Day 1: June 27, Monday
+### Day 1: January 2nd, Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Found a way to fix CORS issues using proxy on the client side for the react app.  
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: After a lot of searching and reading, I think I understand CORS on a high level now. I'm using a proxy to fix the issue on the client side but I don't feel like it's a proper solution. Gotta keep researching.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work**: [Today's commit](https://github.com/faahim/geckos-28/commit/8a485894081549d70b04d18e573fcd9513ed59d2)
