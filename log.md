@@ -14,3 +14,13 @@
 **Thoughts**: After a lot of searching and reading, I think I understand CORS on a high level now. I'm using a proxy to fix the issue on the client side but I don't feel like it's a proper solution. Gotta keep researching.
 
 **Link to work**: [Today's commit](https://github.com/faahim/geckos-28/commit/8a485894081549d70b04d18e573fcd9513ed59d2)
+
+### Day 2: January 2nd, Wednesday
+
+**Today's Progress**: Fetching url metadata seems to be working fine now. 
+
+**Thoughts**: The npm module I was using yesterday (node-metainspector) didn't really worked very well. It returned a lot of errors. So, today I tried some other npm module and found one (uel-metadata) that's working really well so far. It successfully fetches title, description and image from any given url. Now I gotta find a way to display those info when user inputs any url.
+
+I'm currently on a family trip and it was so freaking hard today to manage to sit with computer for coding. I had to wait until everyone sleeps. It's 3 in the morning now and I'm tried as hell. Gotta push myself forward. :)
+
+**Link to work**: [Today's commit](https://github.com/faahim/geckos-28/commit/6475537054cedc54ec2a589c7e8f3bb43cc1ab38)
