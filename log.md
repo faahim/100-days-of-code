@@ -15,7 +15,7 @@
 
 **Link to work**: [Today's commit](https://github.com/faahim/geckos-28/commit/8a485894081549d70b04d18e573fcd9513ed59d2)
 
-### Day 2: January 2nd, Wednesday
+### Day 2: January 3rd, Wednesday
 
 **Today's Progress**: Fetching url metadata seems to be working fine now. 
 
