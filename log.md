@@ -24,3 +24,13 @@
 I'm currently on a family trip and it was so freaking hard today to manage to sit with computer for coding. I had to wait until everyone sleeps. It's 3 in the morning now and I'm tried as hell. Gotta push myself forward. :)
 
 **Link to work**: [Today's commit](https://github.com/faahim/geckos-28/commit/6475537054cedc54ec2a589c7e8f3bb43cc1ab38)
+
+### Day 3: January 4th, Thursday
+
+**Today's Progress**: Viewing fetched metadata in the list view. 
+
+**Thoughts**: The npm uses promise to store the fetched data. It was very challenging for me to come up with a way to update the state (and viweing component) when the metadata is available. Most of the approach I took didn't work because of 'this' keyword. It's very confusing sometimes. I learned that arrow function doesn't have it's own this. I used it at my disposal.
+
+It's 3am in the morning again today! It's so hard to manage time sometimes! I'm a bit worried about the upcoming trips. :(
+
+**Link to work**: [Today's commit](https://github.com/faahim/geckos-28/commit/11e27772732d1eab3b569d9afbf1e2af3b317046)
