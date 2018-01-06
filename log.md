@@ -34,3 +34,17 @@ I'm currently on a family trip and it was so freaking hard today to manage to si
 It's 3am in the morning again today! It's so hard to manage time sometimes! I'm a bit worried about the upcoming trips. :(
 
 **Link to work**: [Today's commit](https://github.com/faahim/geckos-28/commit/11e27772732d1eab3b569d9afbf1e2af3b317046)
+
+### Day 4: January 5th, Friday
+
+**Today's Progress**: Couldn't sit down with computer to code since I was on a trip with my Family. So,  I read a chapter of Scopes and Closure from YDKJS book series. 
+
+**Thoughts**: It's becoming tougher and tougher to manage time while on trip. I gotta make it through.
+
+### Day 5: January 6th, Saturday
+
+**Today's Progress**: Fix some issue with rendering meta viewer component and also fixed issue of duplicate item id's. 
+
+**Thoughts**: This was the first day of my family trip. It was a lot of fun to see the sea for the fist time. A great experience to remember. I coded from my hotel room. I just did some common fixing and haven't faced any challenge. But setting list items id using array length isn't probably a very good idea! 
+
+**Link to work**: [Today's commit](https://github.com/faahim/geckos-28/commit/d6a096df62543f7021f164a6772dce58693df372)
