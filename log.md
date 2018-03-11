@@ -24,3 +24,11 @@
 **Thoughts**: I've sepnt a lot of time looking at job posting today. I really really need a breakthrough and after looking at these postings, it only feels more dark. There's tons of oppertunaties, but most of those seem to be for senior devs only. If it's not, it's for US only! I have no idea how to get my breakthrough! :(
 
 **Link to work**: [Today's commit](https://github.com/faahim/faahim.github.io/commit/ed86dc2a3e19d919d1a163fa659aa0ad2620382f)
+
+### Day 3: March 11th, Sunday
+
+**Today's Progress**: Created a button styling effect and implemented in on my portfolio site. 
+
+**Thoughts**: It was a super busy day with my family today. We have some guest in house and I could barely sit down for coding. I managed an hour after everyone went to sleep though. Super tired!
+
+**Link to work**: [Today's commit](https://github.com/faahim/faahim.github.io/commit/bfb514c4e1c77cc4ef803cc51a6b78bfa97c7edd)
