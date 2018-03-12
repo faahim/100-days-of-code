@@ -32,3 +32,11 @@
 **Thoughts**: It was a super busy day with my family today. We have some guest in house and I could barely sit down for coding. I managed an hour after everyone went to sleep though. Super tired!
 
 **Link to work**: [Today's commit](https://github.com/faahim/faahim.github.io/commit/bfb514c4e1c77cc4ef803cc51a6b78bfa97c7edd)
+
+### Day 4: March 12th, Monday
+
+**Today's Progress**: Created and added content to the "Writing" page of my portfolio site. Played a bit with link effects again.
+
+**Thoughts**: I've been only doing styling stuff in the past days. While they are fun, They don't make me feel I'm streaching. I mean, I need to feel like I'm learning something new, something that I couldn't do or, didn't know yesterday. That feeling is missing. I think I need to set aside some time spcifically for learning new things besides usual coding.
+
+**Link to work**: [Today's commit](https://github.com/faahim/faahim.github.io/commit/3a91d1878277c17edf8c5d93144e79bb74090afe)
