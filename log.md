@@ -48,3 +48,11 @@
 **Thoughts**: That feeling of not learning something new is still bugging me. I've read some article today that disscussed about getting the most impact possible from time invested in learning. It says that we should be making our public as much as possible. This helps community and also helps creators gaining exposure. I'm planning to write post, share snippts from projects more often.
 
 **Link to work**: [Today's commit](https://github.com/faahim/faahim.github.io/commit/c0d7a4f9a73cf7f3d2ee90279e29c429574a5fc0)
+
+### Day 6: March 14th, Wednesday
+
+**Today's Progress**: Another day without electricity. Managed to sit for coding for about an hour. I've added some hover animation on my portfolio homepage. It looks somewhat cool. Learned about Mouse Enter and Mouse Leave events.
+
+**Thoughts**: I didn't know that you can't change style of an element on another elements hover, if that isn't a child of the same parent. I tried to do that without any luck. Eventually I've used mouse event in React to achive it. Now when I hover over an item card, the linked SVG icons scales a bit.
+
+**Link to work**: [Today's commit](https://github.com/faahim/faahim.github.io/commit/4b35f34e13dcfc121dfb3bea91e21e5b071cd889)
