@@ -40,3 +40,11 @@
 **Thoughts**: I've been only doing styling stuff in the past days. While they are fun, They don't make me feel I'm streaching. I mean, I need to feel like I'm learning something new, something that I couldn't do or, didn't know yesterday. That feeling is missing. I think I need to set aside some time spcifically for learning new things besides usual coding.
 
 **Link to work**: [Today's commit](https://github.com/faahim/faahim.github.io/commit/3a91d1878277c17edf8c5d93144e79bb74090afe)
+
+### Day 5: March 13th, Tuesday
+
+**Today's Progress**: Worked on building the Contacts page, which is the last page of the portfolio site. All the essentials of the site is now done. Now I need to show it to some people and get feedback on it.
+
+**Thoughts**: That feeling of not learning something new is still bugging me. I've read some article today that disscussed about getting the most impact possible from time invested in learning. It says that we should be making our public as much as possible. This helps community and also helps creators gaining exposure. I'm planning to write post, share snippts from projects more often.
+
+**Link to work**: [Today's commit](https://github.com/faahim/faahim.github.io/commit/c0d7a4f9a73cf7f3d2ee90279e29c429574a5fc0)
