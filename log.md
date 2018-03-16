@@ -56,3 +56,11 @@
 **Thoughts**: I didn't know that you can't change style of an element on another elements hover, if that isn't a child of the same parent. I tried to do that without any luck. Eventually I've used mouse event in React to achive it. Now when I hover over an item card, the linked SVG icons scales a bit.
 
 **Link to work**: [Today's commit](https://github.com/faahim/faahim.github.io/commit/4b35f34e13dcfc121dfb3bea91e21e5b071cd889)
+
+### Day 7: March 15th, Thursday
+
+**Today's Progress**: Deployed the initial release of my portfolio. I wan't sure about some responsive stylings, so I made some changes and released it.
+
+**Thoughts**: It's just super easy to forget what you needed/wanted to do. There was some issues that I thought I'd fix/change before I deploy the site but I totally forgot about them! Gotta maintain a todo list for every project from now on.
+
+**Link to work**: [Today's commit](https://github.com/faahim/faahim.github.io/commit/4b35f34e13dcfc121dfb3bea91e21e5b071cd889)
