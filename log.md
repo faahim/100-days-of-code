@@ -64,3 +64,11 @@
 **Thoughts**: It's just super easy to forget what you needed/wanted to do. There was some issues that I thought I'd fix/change before I deploy the site but I totally forgot about them! Gotta maintain a todo list for every project from now on.
 
 **Link to work**: [Today's commit](https://github.com/faahim/faahim.github.io/commit/4b35f34e13dcfc121dfb3bea91e21e5b071cd889)
+
+### Day 8: March 16th, Friday
+
+**Today's Progress**: Discovered some serious bugs on my portfolio and fixed it. ServiceWorker was preventing opening pages that had the same domain names. It was a pretty interesting problem to look into. I had to disable ServideWorker to fix it.
+
+**Thoughts**: Service worker is a cool technology! I gotta learn more about it. But...there's 1928 other things as well that I gotta learn more about. :(
+
+**Link to work**: [Today's commit](https://github.com/faahim/faahim.github.io/commit/6158bb28c83c996aaea3ae9c94a858746f7935e6)
