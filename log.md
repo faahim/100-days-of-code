@@ -72,3 +72,11 @@
 **Thoughts**: Service worker is a cool technology! I gotta learn more about it. But...there's 1928 other things as well that I gotta learn more about. :(
 
 **Link to work**: [Today's commit](https://github.com/faahim/faahim.github.io/commit/6158bb28c83c996aaea3ae9c94a858746f7935e6)
+
+### Day 9: March 17th, Saturday
+
+**Today's Progress**: Checked out Material-UI library for React. It's amazing! Material UI makes it possible to create beautiful looking apps with great user experience without writing any CSS yourself! Isn't that super cool? But the bad part is, Since all of the component is styled internally, the customizability is sometime limiting if you want to do a lot of customization. But it's great anyway!
+
+**Thoughts**: Got sick. I almost didn't code at all today. I'm not being productive for a long time now. Gotta get back on track. ASAP!
+
+**Link to work**: No commit today! :(
